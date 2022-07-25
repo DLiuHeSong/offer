@@ -1,5 +1,5 @@
-# Ñ§Ï°goÓïÑÔµÄÀÖÈ¤
-## ½»Á÷ Ñ§Ï° ÌáÉı
+# å­¦ä¹ goè¯­è¨€çš„ä¹è¶£
+## äº¤æµ å­¦ä¹  æå‡
 
-#### Ö§³ÖÂ·¾¶
-![img_1.png](img_1.png)
+#### æ”¯æŒè·¯å¾„
+![img_1.png](https://github.com/DLiuHeSong/offer/edit/master/img_1.png)
